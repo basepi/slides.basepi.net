@@ -21,12 +21,14 @@ Colton Myers, DMa Security Services
 * Open Source Security Compliance Software
 * Built on SaltStack as a library
 * One Adobe solution for security compliance (replacing CloudPassage)
+* hubblestack.io
 
 ---
 
 # HubbleStack
 
-* Not hugely active community
+* Silent user community
+* Not hugely active developer community
 * Still lessons to be learned
 
 ---
@@ -80,19 +82,13 @@ Colton Myers, DMa Security Services
 
 ---
 
-### Issue/PR Templates
-
 ![Issue Templates](images/templates2.jpeg)
 
 ---
 
-### Issue/PR Templates
-
 ![Issue Templates](images/templates3.jpeg)
 
 ---
-
-### Issue/PR Templates
 
 ![Issue Templates](images/templates4.png)
 
