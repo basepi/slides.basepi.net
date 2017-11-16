@@ -56,17 +56,19 @@ Colton Myers, DMa Security Services
 
 ---
 
-But wait, I'm part of the 2%!
+### But wait, I'm part of the 2%!
 
 ---
 
-Context-switching hurts your productivity
+### Context-switching hurts your productivity
 
 ---
 
-Open Source community-management is a context-switching nightmare
+### Open Source community-management is a context-switching nightmare
 
 ---
+
+### We're Doomed!
 
 ![Doomed](images/doomed.gif)
 
@@ -135,6 +137,16 @@ Not perfect, but pretty close
 ---
 
 # Questions?
+
+Colton Myers
+
+@basepi
+
+slides.basepi.net/idd
+
+---
+
+# Thanks!
 
 Colton Myers
 
