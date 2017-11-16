@@ -1,6 +1,6 @@
-# Open Source Communities
+## Open Source Communities
 
-## Interrupt-Driven-Development
+### Interrupt-Driven-Development
 
 Colton Myers
 
@@ -10,9 +10,9 @@ Software Engineer, DMa Security Services
 
 ---
 
-# Who Am I?
+## Who Am I?
 
-## @basepi
+### @basepi
 
 * Co-Creator and Maintainer of HubbleStack
 * Previously: Core Engineer at SaltStack
@@ -20,7 +20,7 @@ Software Engineer, DMa Security Services
 
 ---
 
-# HubbleStack
+## HubbleStack
 
 * Open Source Security Compliance Software
 * Built on SaltStack as a library
@@ -29,7 +29,7 @@ Software Engineer, DMa Security Services
 
 ---
 
-# HubbleStack
+## HubbleStack
 
 * Silent user community
 * Not hugely active developer community
@@ -37,7 +37,7 @@ Software Engineer, DMa Security Services
 
 ---
 
-# SaltStack
+## SaltStack
 
 * Open source config management
 * ~2000 contributors
@@ -46,7 +46,7 @@ Software Engineer, DMa Security Services
 
 ---
 
-# SaltStack
+## SaltStack
 
 ![SaltStack Pulse](images/pulse.png)
 
