@@ -1,6 +1,6 @@
 ## Open Source Communities
 
-### Interrupt-Driven-Development
+### Interrupt-Driven Development
 
 Colton Myers
 
