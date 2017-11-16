@@ -46,7 +46,7 @@ Colton Myers, DMa Security Services
 
 ---
 
-# Let's Talk About Context-Switching
+### Let's Talk About Context-Switching
 
 ![Dilbert](images/dilbert.gif)
 
@@ -72,35 +72,35 @@ Open Source community-management is a context-switching nightmare
 
 ---
 
-# Issue/PR Templates
+### Issue/PR Templates
 
 ![Issue Templates](images/templates1.jpeg)
 
 ---
 
-# Issue/PR Templates
+### Issue/PR Templates
 
 ![Issue Templates](images/templates2.jpeg)
 
 ---
 
-# Issue/PR Templates
+### Issue/PR Templates
 
 ![Issue Templates](images/templates3.jpeg)
 
 ---
 
-# Issue/PR Templates
+### Issue/PR Templates
 
 ![Issue Templates](images/templates4.png)
 
 ---
 
-# Filters
+### Filters
 
 ---
 
-# Filters
+### Filters
 
 ```
 from:(notifications@github.com)
@@ -108,7 +108,7 @@ from:(notifications@github.com)
 
 ---
 
-# Filters
+### Filters
 
 ```
 from:(notifications@github.com) to:(colton.myers@gmail.com)
@@ -116,7 +116,7 @@ from:(notifications@github.com) to:(colton.myers@gmail.com)
 
 ---
 
-# Filters
+### Filters
 
 ```
 list:"hubblestack/hubble <hubble.hubblestack.github.com>"
@@ -124,7 +124,7 @@ list:"hubblestack/hubble <hubble.hubblestack.github.com>"
 
 ---
 
-# Filters
+### Filters
 
 ```
 "You can view, comment on, or merge this pull request online at"
@@ -137,5 +137,7 @@ Not perfect, but pretty close
 # Questions?
 
 Colton Myers
+
 @basepi
+
 slides.basepi.net/idd
