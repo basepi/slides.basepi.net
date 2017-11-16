@@ -2,7 +2,11 @@
 
 ## Interrupt-Driven-Development
 
-Colton Myers, DMa Security Services
+Colton Myers
+
+@basepi
+
+Software Engineer, DMa Security Services
 
 ---
 
